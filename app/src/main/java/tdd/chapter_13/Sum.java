@@ -1,4 +1,4 @@
-package tdd.thirteen;
+package tdd.chapter_13;
 
 class Sum implements Expression {
     Money augend;
